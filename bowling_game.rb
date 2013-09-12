@@ -5,7 +5,7 @@ class BowlingGame
     @rolls = []
   end
 
-  # Record a roll in the game.
+  # Record a roll in the game .
   #
   # pins - The Integer number of pins knocked down in this roll.
   #
